@@ -1,0 +1,7 @@
+prefix=C:/Users/aleks/github-portfolio/Group_26/out/install/x64-Debug
+includedir=${prefix}/include
+
+Name: tclap
+Description: A header-only templatized C++ command line parser library
+Version: 1.4.0
+Cflags: -I${includedir}
