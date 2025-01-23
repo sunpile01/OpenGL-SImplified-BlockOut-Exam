@@ -1,7 +1,7 @@
-prefix=C:/Users/aleks/github-portfolio/Group_26/out/install/x64-Debug
+prefix=C:/Users/ASolha/C++/CppDev/Student/PersonalProjects/OpenGL-SImplified-BlockOut-Exam/out/install/x64-Debug
 exec_prefix=${prefix}
-includedir=C:/Users/aleks/github-portfolio/Group_26/out/install/x64-Debug/include
-libdir=C:/Users/aleks/github-portfolio/Group_26/out/install/x64-Debug/lib
+includedir=C:/Users/ASolha/C++/CppDev/Student/PersonalProjects/OpenGL-SImplified-BlockOut-Exam/out/install/x64-Debug/include
+libdir=C:/Users/ASolha/C++/CppDev/Student/PersonalProjects/OpenGL-SImplified-BlockOut-Exam/out/install/x64-Debug/lib
 
 Name: GLFW
 Description: A multi-platform library for OpenGL, window and input

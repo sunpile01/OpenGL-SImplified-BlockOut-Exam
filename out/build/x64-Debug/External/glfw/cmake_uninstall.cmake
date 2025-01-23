@@ -1,9 +1,9 @@
 
-if (NOT EXISTS "C:/Users/aleks/github-portfolio/Group_26/out/build/x64-Debug/External/glfw/install_manifest.txt")
-    message(FATAL_ERROR "Cannot find install manifest: \"C:/Users/aleks/github-portfolio/Group_26/out/build/x64-Debug/External/glfw/install_manifest.txt\"")
+if (NOT EXISTS "C:/Users/ASolha/C++/CppDev/Student/PersonalProjects/OpenGL-SImplified-BlockOut-Exam/out/build/x64-Debug/External/glfw/install_manifest.txt")
+    message(FATAL_ERROR "Cannot find install manifest: \"C:/Users/ASolha/C++/CppDev/Student/PersonalProjects/OpenGL-SImplified-BlockOut-Exam/out/build/x64-Debug/External/glfw/install_manifest.txt\"")
 endif()
 
-file(READ "C:/Users/aleks/github-portfolio/Group_26/out/build/x64-Debug/External/glfw/install_manifest.txt" files)
+file(READ "C:/Users/ASolha/C++/CppDev/Student/PersonalProjects/OpenGL-SImplified-BlockOut-Exam/out/build/x64-Debug/External/glfw/install_manifest.txt" files)
 string(REGEX REPLACE "\n" ";" files "${files}")
 
 foreach (file ${files})

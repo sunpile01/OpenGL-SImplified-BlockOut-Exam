@@ -1,6 +1,3 @@
-[submodule "External/tclap"]
-	path = External/tclap
-	url = https://git.code.sf.net/p/tclap/code
 [submodule "External/glad"]
 	path = External/glad
 	url = https://gitlab.com/prog2002/glad
